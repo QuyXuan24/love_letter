@@ -29,10 +29,15 @@ const slidesData = [
   },
 ];
 
-const localImages = Array.from(
-  { length: 10 },
-  (_, i) => `./style/img/Anh%20(${i + 1}).jpg`,
-);
+const localImages = [
+  "./style/img/Anh(1).png",
+  "./style/img/Anh(2).png",
+  "./style/img/Anh(3).jpg",
+  "./style/img/Anh(4).jpg",
+  "./style/img/Anh(5).jpg",
+  "./style/img/Anh(6).jpg",
+  "./style/img/Anh(7).jpg",
+];
 
 let currentSlide = 0;
 let finaleShown = false;
