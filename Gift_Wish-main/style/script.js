@@ -30,13 +30,13 @@ const slidesData = [
 ];
 
 const localImages = [
-  "./style/img/Anh(1).png",
-  "./style/img/Anh(2).png",
-  "./style/img/Anh(3).jpg",
-  "./style/img/Anh(4).jpg",
-  "./style/img/Anh(5).jpg",
-  "./style/img/Anh(6).jpg",
-  "./style/img/Anh(7).jpg",
+  "./style/img/anh1.jpg",
+  "./style/img/anh2.jpg",
+  "./style/img/anh3.jpg",
+  "./style/img/anh4.jpg",
+  "./style/img/anh5.jpg",
+  "./style/img/anh6.jpg",
+  "./style/img/anh7.jpg",
 ];
 
 let currentSlide = 0;
