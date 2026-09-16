@@ -1,30 +1,30 @@
 const slidesData = [
   {
-    text: "Chào buổi sáng, cô gái anh yêu! Cảm ơn em vì đã xuất hiện và làm cuộc sống của anh trở nên ý nghĩa hơn.",
+    text: "Hello ty nha, người cô gái em thương! Cảm ơn chị vì đã xuất hiện và làm cuộc sống của em trở nên ý nghĩa và vui vẻ hơn.",
     gif: "https://i.pinimg.com/originals/b6/b1/d6/b6b1d64609f266d8f236752d8551f26f.gif",
   },
   {
-    text: "Anh chỉ mong hôm nay em sẽ luôn mỉm cười, vì nụ cười của em chính là điều đẹp nhất đối với anh.",
+    text: "Em chỉ mong sau này chị sẽ luôn mỉm cười, vì nụ cười của chị chính là thứ đẹp nhất trong mắt em.",
     gif: "https://i.pinimg.com/originals/3f/4e/d3/3f4ed3cb1539cb42dc93b78020a3ef55.gif",
   },
   {
-    text: "Dù hôm nay có bận rộn đến đâu, hãy nhớ rằng luôn có một người âm thầm yêu thương và dõi theo em.",
+    text: "Dù sau này có sao đi chăng nữa , hãy nhớ rằng luôn có một người âm thầm yêu thương và dõi theo chị.",
     gif: "https://i.pinimg.com/originals/b7/c6/4a/b7c64aca651271c52087f58276bd1de1.gif",
   },
   {
-    text: "Anh mong mọi điều tốt đẹp sẽ đến với em, bởi em xứng đáng nhận được những điều tuyệt vời nhất.",
+    text: "Em mong mọi điều tốt đẹp sẽ đến với chị, bởi vì chị xứng đáng nhận được những điều tuyệt vời hơn thế nữa cơ.",
     gif: "https://i.pinimg.com/originals/7e/f6/9c/7ef69cd0a6b0b78526c8ce983b3296fc.gif",
   },
   {
-    text: "Nếu có lúc em cảm thấy mệt mỏi, hãy nhớ rằng anh luôn ở đây để lắng nghe, sẻ chia và ôm em thật chặt.",
+    text: "Nếu có lúc chị cảm thấy mệt mỏi, hãy nhớ rằng em luôn ở đây để lắng nghe, sẻ chia với chị.",
     gif: "https://i.pinimg.com/originals/4e/89/d3/4e89d3e4ec4b1f59b1664e880a875c65.gif",
   },
   {
-    text: "Chỉ cần em hạnh phúc, với anh đó đã là món quà tuyệt vời nhất của mỗi ngày.",
+    text: "Chỉ cần chị hạnh phúc, với em đó nó như một món quà rồi.",
     gif: "https://i.pinimg.com/originals/fd/60/15/fd6015dd3f31d0223374f993f66e85d3.gif",
   },
   {
-    text: "Anh yêu em nhiều hơn mỗi ngày. Chúc em luôn bình an, vui vẻ và mãi là cô gái đáng yêu nhất trong tim anh.",
+    text: "Em yêu ty lắm babi moa moaaaaaaaaaa",
     gif: "https://i.pinimg.com/originals/56/80/90/5680904ede54bea21d02450affebfc4f.gif",
   },
 ];
